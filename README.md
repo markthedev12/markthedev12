@@ -47,7 +47,7 @@ I am building a hands-on cybersecurity portfolio aligned with entry-level securi
 
 ---
 
-## 🎯 Career Goal
+## 📫 How to reach me
+LinkedIn: https://www.linkedin.com/in/mark-schwinn-994625362/
+Email: markschwinnbiz@gmail.com
 
-Transition into a Cloud Security Engineer or SOC Analyst role and continue growing
-in cybersecurity and cloud infrastructure.
