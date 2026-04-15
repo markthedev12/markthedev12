@@ -9,7 +9,6 @@ experience through my current job, and projects.
 ## Certifications
 - Google Cybersecurity Certificate
 - CompTIA Security+ — Scheduled 
-- AWS Cloud Practitioner — Scheduled 
 - B.S Information Technology & Cybersecurity (Strayer University) (Projected Graduation: May 2027)
 
 ---
