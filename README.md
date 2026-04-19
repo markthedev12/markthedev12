@@ -39,10 +39,8 @@ I am building a hands-on cybersecurity portfolio aligned with entry-level securi
 
 ## 📌 Featured Projects
 
-- Python Log Analyzer
 - Password Generator (CLI)
-- Python Quiz Game
-- AWS Cloud Security Practice
+- AWS Secure S3 Bucket Lab
 
 ---
 
