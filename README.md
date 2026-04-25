@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mark
 
 I am an IT professional transitioning into cybersecurity and cloud security engineering.
-I am currently preparing for the CompTIA Security+ certification while building hands-on
+I am currently preparing for the AWS Solutions Architecht certification while building hands-on
 experience through my current job, and projects.
 
 ---
