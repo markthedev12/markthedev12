@@ -1,6 +1,6 @@
 # Hi, I'm Mark Schwinn 👋
 
-**Cloud Security Engineer in progress** — IT professional with hands-on healthcare IAM experience building toward a cloud security career.
+IAM & Cybersecurity professional with hands-on healthcare IAM experience building toward a cloud security career.
 
 I work in enterprise IT at Thomas Jefferson University Hospital in Philadelphia, where I manage IAM tools including Active Directory, Microsoft Entra ID, SailPoint, Cisco ISE, MFA, and RBAC in a HIPAA-regulated environment. I'm channeling that real-world compliance experience into cloud security projects and certifications.
 
@@ -8,7 +8,7 @@ I work in enterprise IT at Thomas Jefferson University Hospital in Philadelphia,
 
 ## 🎯 Currently
 
-- 📖 Studying for **AWS Solutions Architect Associate**
+- 📖 Studying for **CompTIA CySA+**
 - 🔐 Building a **healthcare cloud security portfolio**
 - 🎓 Pursuing **B.S. Information Technology & Cybersecurity** @ Strayer University (GPA: 4.0, Graduating May 2027)
 
@@ -20,7 +20,7 @@ I work in enterprise IT at Thomas Jefferson University Hospital in Philadelphia,
 |---|---|
 | CompTIA Security+ | ✅ Earned |
 | Google Cybersecurity Certificate | ✅ Earned |
-| AWS Solutions Architect Associate | 🔄 In Progress |
+| CompTIA CySA+ | 🔄 In Progress |
 
 ---
 
