@@ -28,7 +28,7 @@ I work in enterprise IT at Thomas Jefferson University Hospital in Philadelphia,
 
 ## 🔨 Featured Projects
 
-### 🔍 [IAM Security Audit Tool](https://github.com/markthedev12/iam-security-audit-tool)
+### 🔍 [IAM Security Audit Tool](https://github.com/markthedev12/iam-security-tool)
 A Python-based IAM security audit tool that scans user accounts for common Active Directory misconfigurations and HIPAA compliance violations. Runs 6 security checks across MFA compliance, shared account detection, privileged access review, inactive account detection, password policy, and guest account auditing. Generates a color-coded terminal report and professional HTML report with NIST SP 800-53 and HIPAA framework citations.
 
 ### 🔒 [HIPAA AWS Security Compliance Checker](https://github.com/markthedev12/hipaa-aws-checker)
