@@ -1,65 +1,57 @@
-# Hi, I'm Mark Schwinn 👋
+Hi, I'm Mark Schwinn
 
-**IAM & Cybersecurity Professional** — Hands-on enterprise healthcare IT experience building a security-focused portfolio and consulting practice.
+IAM & Microsoft Security Engineer with hands-on enterprise experience in a HIPAA-regulated healthcare system. I govern identity infrastructure, enforce access controls, and build cloud security tooling at Thomas Jefferson University Hospital — a 10,000+ user environment where security failures have direct patient care consequences.
 
-I work in enterprise IT at Thomas Jefferson University Hospital in Philadelphia, where I manage IAM tools including Active Directory, Microsoft Entra ID, SailPoint, Cisco ISE, MFA, and RBAC in a HIPAA-regulated environment. I'm channeling that real-world compliance experience into security projects, certifications, and a growing cybersecurity consulting practice.
+Currently pursuing SC-200 (Microsoft Security Operations Analyst) and AWS Solutions Architect Associate to deepen my cloud security operations depth.
 
----
 
-## 🎯 Currently
+Certifications
 
-- 📖 Studying for **CompTIA CySA+**
-- 🔐 Building a **healthcare IAM & cybersecurity portfolio**
-- 💼 Running **cybersecurity consulting** at [markschwinn.com](https://markschwinn.com)
-- 🎓 Pursuing **B.S. Information Technology & Cybersecurity** @ Strayer University (GPA: 4.0, Graduating 2027)
 
----
+CompTIA Security+
+Google Cybersecurity Certificate
+SC-200 Microsoft Security Operations Analyst (in progress)
+AWS Solutions Architect Associate (in progress)
+B.S. Information Technology & Cybersecurity — Strayer University (Expected Jun 2027)
 
-## 🏅 Certifications
 
-| Certification | Status |
-|---|---|
-| CompTIA Security+ | ✅ Earned |
-| Google Cybersecurity Certificate | ✅ Earned |
-| CompTIA CySA+ | 🔄 In Progress |
-| AWS Cloud Practitioner | 📋 Planned |
 
----
+Core Stack
 
-## 🔨 Featured Projects
+Identity & Access Management
+SailPoint IdentityNow · Microsoft Entra ID · Active Directory · Cisco ISE · MFA/SSO · RBAC · Privileged Access Governance
 
-### 🔍 [IAM Security Audit Tool](https://github.com/markthedev12/iam-security-tool)
-A Python-based IAM security audit tool that scans user accounts for common Active Directory misconfigurations and HIPAA compliance violations. Runs 6 security checks across MFA compliance, shared account detection, privileged access review, inactive account detection, password policy, and guest account auditing. Generates a color-coded terminal report and professional HTML report with NIST SP 800-53 and HIPAA framework citations.
+Microsoft Security
+Microsoft Sentinel (KQL) · Defender for Cloud · Defender for Identity · Entra ID Protection · Conditional Access
 
-### 🔒 [HIPAA AWS Security Compliance Checker](https://github.com/markthedev12/hipaa-aws-checker)
-A Python CLI tool that audits AWS configurations against HIPAA Security Rule requirements. Checks S3, IAM, CloudTrail, RDS, VPC, GuardDuty, and AWS Config. Supports live boto3 mode and demo mode. Maps every check to a specific 45 CFR Part 164 citation.
+Cloud & Compliance
+AWS (IAM · S3 · CloudTrail · KMS · VPC · RDS) · HIPAA Security Rule (45 CFR Part 164) · Python (boto3) · GitHub
 
-### ☁️ [AWS Secure S3 Lab](https://github.com/markthedev12/aws-secure-s3-lab)
-A production-grade secure S3 architecture with IAM least-privilege policies, SSE-S3 encryption, HTTPS-only bucket policy, access logging, and Block Public Access. Security controls mapped to HIPAA, SOC 2, and ISO 27001 requirements.
 
----
+Featured Projects
 
-## 🛠 Technical Skills
+HIPAA AWS Security Compliance Checker
 
-**Identity & Access Management**
-Active Directory · Microsoft Entra ID · SailPoint · Cisco ISE · MFA · SSO · RBAC · PAM · Zero Trust · Identity Lifecycle Management
+Python/boto3 CLI tool that audits AWS environments against the HIPAA Security Rule — 16 automated checks across S3, IAM, CloudTrail, KMS, VPC, and RDS, each mapped to a 45 CFR Part 164 citation. Built for healthcare cloud environments.
 
-**Security & Compliance**
-HIPAA Security Rule · Incident Response · Security Operations · Access Auditing · Threat Detection · Risk Assessment · NIST SP 800-53
+AWS Secure S3 Lab
 
-**Cloud & Infrastructure**
-AWS (S3, IAM, CloudTrail, RDS, VPC, GuardDuty) · Azure AD · Microsoft 365 · Citrix · Epic EHR · VPN Administration
+Hands-on security hardening lab implementing IAM least-privilege policies, KMS/SSE encryption, restrictive bucket policies, access logging, and CloudTrail — with documented architecture decisions and security rationale.
 
-**Tools & Languages**
-Python · Git & GitHub · AWS CLI · boto3 · PowerShell · Linux · ServiceNow · Wireshark · Kali Linux
 
-**Frameworks**
-HIPAA Security Rule (45 CFR Part 164) · NIST 800-53 · NIST 800-66 · ISO 27001 · SOC 2 · CIS Controls
+Currently Building
 
----
 
-## 📫 Connect
+SC-200 Microsoft Security Operations Analyst certification
+AWS Solutions Architect Associate certification
+Expanding HIPAA Compliance Checker with live boto3 integration and HTML report export
+Microsoft Sentinel KQL detection lab (coming soon)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Schwinn-blue)](https://www.linkedin.com/in/mark-schwinn-994625362/)
-[![Website](https://img.shields.io/badge/Website-markschwinn.com-darkgreen)](https://markschwinn.com)
-[![Email](https://img.shields.io/badge/Email-mark%40markschwinn.com-red)](mailto:mark@markschwinn.com)
+
+
+Connect
+
+
+🌐 markschwinn.com
+💼 LinkedIn
+📧 mark@markschwinn.com
