@@ -8,16 +8,15 @@ IAM & Security Engineer with hands-on enterprise experience governing identity i
 
 * CompTIA Security+
 * Google Cybersecurity Certificate
-* SC-200 Microsoft Security Operations Analyst *(in progress)*
-* AWS Solutions Architect Associate *(in progress)*
+* CySA+ *(In Progress)*
+* SC-200 Microsoft Security Operations Analyst *(Upcoming)*
 * B.S. Information Technology & Cybersecurity — Strayer University *(Expected Jun 2027)*
 
 ---
 
 ## 🛠️ What I'm Currently Working On
 
-* Studying for **SC-200** (Microsoft Sentinel, Defender XDR, Defender for Cloud)
-* Studying for **AWS SAA** (Stephane Maarek course + TutorialsDojo)
+* Studying for CySA+
 * Expanding the HIPAA Compliance Checker with live boto3 integration and HTML report export
 * Building a Microsoft Sentinel KQL detection lab *(coming soon)*
 
