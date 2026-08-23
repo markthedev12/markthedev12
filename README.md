@@ -1,47 +1,51 @@
 # 👋 Hi, I'm Mark Schwinn
 
-IAM & Security Engineer with hands-on enterprise experience governing identity infrastructure in a HIPAA-regulated healthcare system. I manage access controls for 10,000+ users in a critical healthcare environment.
+Identity & Access Management (IAM) Analyst
+Supporting identity governance and access control operations for 10,000+ users in enterprise healthcare. Passionate about automating security baselines, currently expanding into AWS cloud engineering and DevSecOps tooling.
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certifications & Education
 
 * CompTIA Security+
 * Google Cybersecurity Certificate
-* CySA+ *(In Progress)*
-* SC-200 Microsoft Security Operations Analyst *(Upcoming)*
-* B.S. Information Technology & Cybersecurity — Strayer University *(Expected Jun 2027)*
+* AWS Certified Solutions Architect – Associate *(In Progress)*
+* CompTIA CySA+ *(In Progress)*
+* B.S. Information Technology & Cybersecurity — Strayer University *(Expected 2027)*
 
 ---
 
 ## 🛠️ What I'm Currently Working On
 
-* Studying for CySA+
-* Expanding the HIPAA Compliance Checker with live boto3 integration and HTML report export
-* Building a Microsoft Sentinel KQL detection lab *(coming soon)*
+* Building multi-tier, automated cloud infrastructure using **Terraform (IaC)** and **AWS**
+* Developing custom **Python (Boto3)** DevSecOps compliance auditing scripts
+* Expanding hands-on threat detection labs in Microsoft Sentinel (KQL)
 
 ---
 
 ## 🔐 Core Stack
 
+**Cloud Infrastructure & DevSecOps**
+AWS (EC2 · IAM · S3 · CloudTrail · KMS · VPC · RDS) · Terraform (HCL) · Python (Boto3) · Bash · Git/GitHub
+
 **Identity & Access Management**
 SailPoint IdentityNow · Microsoft Entra ID · Active Directory · Cisco ISE · MFA/SSO · RBAC · Privileged Access Governance
 
-**Microsoft Security**
-Microsoft Sentinel (KQL) · Defender for Cloud · Defender for Identity · Entra ID Protection · Conditional Access
-
-**Cloud & Compliance**
-AWS (IAM · S3 · CloudTrail · KMS · VPC · RDS) · HIPAA Security Rule (45 CFR Part 164) · Python (boto3) · GitHub
+**Security & Compliance**
+Microsoft Sentinel (KQL) · Defender for Cloud · Defender for Identity · HIPAA Security Rule (45 CFR Part 164) · Least Privilege Hardening
 
 ---
 
 ## 📌 Featured Projects
 
+### 🔒 [AWS EC2 Web Server Automation & Security Audit](https://github.com/markthedev12/aws-ec2-devsecops-lab)
+Provisioned an automated Amazon Linux web server using **Terraform (IaC)** with dynamic AMI queries and bash `user_data` bootstrapping. Paired with a custom **Python (Boto3)** security script to automatically audit and detect open Security Group ports.
+
 ### 🏥 [HIPAA AWS Security Compliance Checker](https://github.com/markthedev12/hipaa-aws-checker)
-Python/boto3 CLI tool that audits AWS environments against the HIPAA Security Rule 16 automated checks across S3, IAM, CloudTrail, KMS, VPC, and RDS, each mapped to a 45 CFR Part 164 citation. Built for healthcare cloud environments.
+Python/Boto3 CLI tool auditing AWS environments against HIPAA Security Rule baselines across S3, IAM, CloudTrail, KMS, VPC, and RDS—mapping each finding directly to 45 CFR Part 164 compliance citations.
 
 ### ☁️ [AWS Secure S3 Lab](https://github.com/markthedev12/aws-secure-s3-lab)
-Hands-on security hardening lab implementing IAM least-privilege policies, SSE encryption, restrictive bucket policies, access logging, and CloudTrail with full architecture documentation and security rationale.
+Hands-on security hardening implementation enforcing IAM least-privilege policies, SSE encryption, restrictive bucket policies, access logging, and CloudTrail auditing.
 
 ---
 
