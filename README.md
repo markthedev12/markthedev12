@@ -10,7 +10,6 @@ Supporting identity governance and access control operations for 10,000+ users i
 * CompTIA Security+
 * Google Cybersecurity Certificate
 * AWS Certified Solutions Architect – Associate *(In Progress)*
-* CompTIA CySA+ *(In Progress)*
 * B.S. Information Technology & Cybersecurity — Strayer University *(Expected 2027)*
 
 ---
