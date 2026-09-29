@@ -1,56 +1,36 @@
-👋 Hi, I'm Mark Schwinn
+# Mark Schwinn
 
-**Cloud + AI Builder | Identity, Security & Infrastructure**
+I build AWS security and infrastructure projects with Terraform and Python.
 
-I build everything from secure cloud systems, automation tools, and AI-powered products, and whatever else I can think of using **Python, AWS, and Terraform**. My background is in enterprise identity and access management, and I'm now focused on shipping useful software, building whatever I find interesting, learning from real users, and building in public.
+I work in IT at a HIPAA regulated hospital system, resolving identity and access issues across Active Directory, Entra ID, Cisco ISE and SailPoint IdentityNow. I'm moving into cloud engineering, and everything below is a personal lab.
 
-[🌐 Website](https://markschwinn.com) · [𝕏 Follow My Builds](https://x.com/markschwinn1) · [💼 LinkedIn](https://www.linkedin.com/in/mark-schwinn-994625362/)
+[Website](https://markschwinn.com) · [LinkedIn](https://www.linkedin.com/in/mark-schwinn-994625362/) · [X](https://x.com/markschwinn1)
 
----
+## Featured Projects
 
-## 🚀 What I'm Building
+**[HIPAA AWS Security Checker](https://github.com/markthedev12/hipaa-aws-checker)**
+Read only Python and Boto3 CLI that audits an AWS account for misconfigurations across S3, IAM, CloudTrail, KMS, VPC and RDS, mapped to HIPAA Security Rule controls.
 
-- A public-facing **Cloud + AI product** designed around a real user problem
-- Security and identity automation with **Python**
-- Cloud infrastructure and deployment workflows with **AWS and Terraform**
-- Experiments with **AI agents, MCP, permissions, and developer tools**
+**[Secure AWS S3 Architecture](https://github.com/markthedev12/aws-secure-s3-lab)**
+Hardened S3 setup with least privilege IAM, encryption at rest, an HTTPS only policy, access logging and CloudTrail, with the reasoning behind each control.
 
----
+**[AWS EC2 DevSecOps Lab](https://github.com/markthedev12/aws-ec2-devsecops-lab)**
+Terraform provisions an EC2 web server, then a Python script audits its security groups for public exposure.
 
-## 🧰 Core Stack
+**[IAM Access Review Bot](https://github.com/markthedev12/iam-access-review-bot)**
+Compares access exports to role baselines, flags excess and stale entitlements, and produces a risk scored HTML report for reviewers.
 
-**Cloud & Infrastructure**  
-AWS · Terraform · Linux · GitHub Actions
+## Stack
 
-**Development & Automation**  
-Python · Boto3 · Bash · Git/GitHub
+**Cloud and infrastructure:** AWS, Terraform, Linux, GitHub Actions
+**Automation:** Python, Boto3, Bash, Git
+**Identity and security:** Entra ID, Active Directory, SailPoint IdentityNow, Cisco ISE, RBAC, MFA and SSO
 
-**Identity & Security**  
-SailPoint IdentityNow · Microsoft Entra ID · Active Directory · IAM · RBAC · MFA/SSO
+## Certifications
 
-**Exploring**  
-AI Agents · MCP · LLM Applications · Agent Identity & Security
+CompTIA Security+ · Google Cybersecurity Certificate
+In progress: AWS Solutions Architect Associate, HashiCorp Terraform Associate, AWS AI Practitioner
 
----
+## Education
 
-## 📌 Featured Projects
-
-### 🔐 [IAM Access Review Bot](https://github.com/markthedev12/iam-access-review-bot)
-Automates access certification with role-baseline comparison, stale entitlement detection, risk scoring, and review-ready reports.
-
-### 🏥 [HIPAA AWS Security Checker](https://github.com/markthedev12/hipaa-aws-checker)
-Python security scanner that audits AWS configurations against practical HIPAA security baselines.
-
-### ⚙️ [AWS EC2 DevSecOps Lab](https://github.com/markthedev12/aws-ec2-devsecops-lab)
-Terraform-provisioned EC2 infrastructure with automated Python security-group auditing and exposure detection.
-
-### ☁️ [Secure AWS S3 Architecture](https://github.com/markthedev12/aws-secure-s3-lab)
-Hardened S3 architecture using least-privilege IAM, encryption, restrictive policies, access logging, and CloudTrail.
-
----
-
-## 🤝 Let's Build
-
-I'm interested in meeting builders, founders, and engineering teams working on ambitious products across **cloud, AI, developer tools, and security**.
-
-Follow what I'm shipping on [X](https://x.com/markschwinn1) or connect with me on [LinkedIn](https://www.linkedin.com/in/mark-schwinn-994625362/).
+B.S. Information Technology and Cybersecurity, Strayer University (expected 2027)
