@@ -2,7 +2,7 @@
 
 I build and secure cloud infrastructure using **Terraform**, **AWS**, and **Python**. 
 
-* **Who I am:** A IT Professional specializing in identity and access management support in a HIPAA-regulated hospital environment, focused on transitioning into cloud engineering and security.
+* **Who I am:** An IT Professional specializing in identity and access management support in a HIPAA-regulated hospital environment, focused on transitioning into cloud engineering and security.
 * **What I'm currently working on:** Building security-first AWS architecture labs, developing automated Python compliance tools, along with whatever else my brain imagines.
 * **Education:** B.S. in Information Technology & Cybersecurity, Strayer University (Expected 2027).
 
