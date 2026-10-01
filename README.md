@@ -1,36 +1,44 @@
-# Mark Schwinn
+# Hi, I'm Mark Schwinn 👋
 
-I build AWS security and infrastructure projects with Terraform and Python.
+I build and secure cloud infrastructure using **Terraform**, **AWS**, and **Python**. 
 
-I work in IT at a HIPAA regulated hospital system, resolving identity and access issues across Active Directory, Entra ID, Cisco ISE and SailPoint IdentityNow. I'm moving into cloud engineering, and everything below is a personal lab.
+* **Who I am:** A IT Professional specializing in identity and access management support in a HIPAA-regulated hospital environment, focused on transitioning into cloud engineering and security.
+* **What I'm currently working on:** Building security-first AWS architecture labs, developing automated Python compliance tools, along with whatever else my brain imagines.
+* **Education:** B.S. in Information Technology & Cybersecurity, Strayer University (Expected 2027).
 
-[Website](https://markschwinn.com) · [LinkedIn](https://www.linkedin.com/in/mark-schwinn-994625362/) · [X](https://x.com/markschwinn1)
+---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-**[HIPAA AWS Security Checker](https://github.com/markthedev12/hipaa-aws-checker)**
-Read only Python and Boto3 CLI that audits an AWS account for misconfigurations across S3, IAM, CloudTrail, KMS, VPC and RDS, mapped to HIPAA Security Rule controls.
+* **Cloud & IaC:** AWS, Terraform, Linux, GitHub Actions
+* **Automation:** Python, Boto3, Bash, Git
+* **Identity & Security:** Active Directory, Microsoft Entra ID, SailPoint IdentityNow, Cisco ISE, RBAC, MFA, SSO
 
-**[Secure AWS S3 Architecture](https://github.com/markthedev12/aws-secure-s3-lab)**
-Hardened S3 setup with least privilege IAM, encryption at rest, an HTTPS only policy, access logging and CloudTrail, with the reasoning behind each control.
+---
 
-**[AWS EC2 DevSecOps Lab](https://github.com/markthedev12/aws-ec2-devsecops-lab)**
-Terraform provisions an EC2 web server, then a Python script audits its security groups for public exposure.
+## 🚀 Featured Projects
 
-**[IAM Access Review Bot](https://github.com/markthedev12/iam-access-review-bot)**
-Compares access exports to role baselines, flags excess and stale entitlements, and produces a risk scored HTML report for reviewers.
+* **[HIPAA AWS Security Checker](https://github.com/markthedev12/hipaa-aws-checker)**  
+  Read-only Python & Boto3 CLI that audits AWS accounts for misconfigurations across S3, IAM, CloudTrail, KMS, VPC, and RDS, mapped directly to HIPAA Security Rule controls.
+* **[Secure AWS S3 Architecture](https://github.com/markthedev12/aws-secure-s3-lab)**  
+  Hardened S3 setup featuring least-privilege IAM, encryption at rest, strict HTTPS-only policies, access logging, and CloudTrail documentation.
+* **[AWS EC2 DevSecOps Lab](https://github.com/markthedev12/aws-ec2-devsecops-lab)**  
+  Terraform-provisioned EC2 web server paired with an automated Python security audit script checking for public exposure.
+* **[IAM Access Review Bot](https://github.com/markthedev12/iam-access-review-bot)**  
+  Compares access exports against role baselines to flag stale entitlements and generate risk-scored HTML compliance reports.
 
-## Stack
+---
 
-**Cloud and infrastructure:** AWS, Terraform, Linux, GitHub Actions
-**Automation:** Python, Boto3, Bash, Git
-**Identity and security:** Entra ID, Active Directory, SailPoint IdentityNow, Cisco ISE, RBAC, MFA and SSO
+## 🏆 Certifications
 
-## Certifications
+* **CompTIA Security+**
+* **Google Cybersecurity Certificate**
+* *In Progress:* AWS Solutions Architect – Associate, HashiCorp Terraform Associate, AWS AI Practitioner
 
-CompTIA Security+ · Google Cybersecurity Certificate
-In progress: AWS Solutions Architect Associate, HashiCorp Terraform Associate, AWS AI Practitioner
+---
 
-## Education
+## 📫 How to Reach Me
 
-B.S. Information Technology and Cybersecurity, Strayer University (expected 2027)
+* **Website:** [markschwinn.com](https://markschwinn.com)
+* **LinkedIn:** [in/mark-schwinn-994625362](https://www.linkedin.com/in/mark-schwinn-994625362/)
+* **X (Twitter):** [@markschwinn1](https://x.com/markschwinn1)
