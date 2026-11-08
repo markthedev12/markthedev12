@@ -18,17 +18,17 @@ I'm an IT professional building Python tools and AWS labs while developing my so
 
 ## 🚀 Featured Projects
 
-* **[HIPAA AWS Security Checker](https://github.com/markthedev12/hipaa-aws-checker)**  
-  Educational Python & Boto3 configuration checks across S3, IAM, CloudTrail, VPC, RDS, GuardDuty, and AWS Config, with simulated demo data. Findings are not a HIPAA compliance certification.
+* **[IAM Access Review Bot](https://github.com/markthedev12/iam-access-review-bot)**  
+  Python access-review rules, validated sample CSV/JSON inputs, reproducible review dates, and escaped HTML findings for human review.
+* **[Current — Household Budget](https://github.com/markthedev12/current-budget)**  
+  Full-stack TypeScript/React application source with Cloudflare/D1 storage, Cognito integration, and tested budget calculation invariants.
+* **[AWS Security Configuration Checker](https://github.com/markthedev12/hipaa-aws-checker)**  
+  Educational Python & Boto3 configuration checks with fictional demo data and explicit collection-failure handling. Findings are not a HIPAA compliance certification.
 * **[Secure AWS S3 Architecture](https://github.com/markthedev12/aws-secure-s3-lab)**  
   Hardened S3 setup featuring least-privilege IAM, encryption at rest, strict HTTPS-only policies, access logging, and CloudTrail documentation.
 * **[AWS EC2 DevSecOps Lab](https://github.com/markthedev12/aws-ec2-devsecops-lab)**  
   Terraform-provisioned EC2 web server paired with an automated Python security audit script checking for public exposure.
-* **[IAM Access Review Bot](https://github.com/markthedev12/iam-access-review-bot)**  
-  Compares sample access exports against role baselines to flag excess, stale, and privileged access and generate HTML findings for human review.
-
-* **[Current](https://github.com/markthedev12/current-budget)**  
-  Full-stack budget application source using TypeScript, React, Cloudflare/D1, and Cognito integration. Local setup is documented in the application directory.
+See the [project directory](PORTFOLIO.md) for smaller utilities and infrastructure labs, including their implemented scope and verification paths.
 
 ## Engineering direction
 
