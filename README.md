@@ -1,44 +1,33 @@
-# Hi, I'm Mark Schwinn 👋
+# Hi, I'm Mark Schwinn
 
-I build and secure cloud infrastructure using **Terraform**, **AWS**, and **Python**. 
+I work in enterprise IT and identity support in healthcare, and I'm building toward **security engineering focused on identity and AWS cloud automation**.
 
-* **Who I am:** An IT Professional specializing in identity and access management support in a HIPAA-regulated hospital environment, focused on transitioning into cloud engineering and security.
-* **What I'm currently working on:** Building security-first AWS architecture labs, developing automated Python compliance tools, along with whatever else my brain imagines.
-* **Education:** B.S. in Information Technology & Cybersecurity, Strayer University (Expected 2027).
+My projects turn security questions into repeatable checks: who has access, which credentials need review, and how cloud controls can be verified with code.
 
----
+## Featured engineering work
 
-## 🛠️ Tech Stack
+| Project | What it demonstrates | Current scope |
+| --- | --- | --- |
+| [Identity Security Auditor](https://github.com/markthedev12/iam-security-tool) | Python validation, deterministic IAM findings, JSON output, automated tests | AWS credential-report auditor proposed in a PR; original AD simulation on main |
+| [IAM Access Review Bot](https://github.com/markthedev12/iam-access-review-bot) | Role baselines, excess-access detection, reviewer reports | Sample-data identity governance lab |
+| [AWS EC2 DevSecOps Lab](https://github.com/markthedev12/aws-ec2-devsecops-lab) | Terraform, Linux bootstrapping, Python security-group auditing | Personal AWS infrastructure lab |
+| [AWS RDS Secure Tier](https://github.com/markthedev12/aws-rds-secure-tier) | Private database networking, encryption, automated configuration checks | Personal Terraform and Python lab |
 
-* **Cloud & IaC:** AWS, Terraform, Linux, GitHub Actions
-* **Automation:** Python, Boto3, Bash, Git
-* **Identity & Security:** Active Directory, Microsoft Entra ID, SailPoint IdentityNow, Cisco ISE, RBAC, MFA, SSO
+## Experience and tools
 
----
+- **Professional foundation:** identity and access support with Active Directory, Microsoft Entra ID, and SailPoint IdentityNow in a healthcare environment.
+- **Portfolio tools:** Python, AWS, Terraform, Linux, Git, and GitHub Actions.
+- **Current build:** a tested identity-security automation workflow, followed by live AWS evidence collection.
+- **AI direction:** an optional explanation layer grounded in rule findings, with redaction and evaluation before publication. This remains planned work.
 
-## 🚀 Featured Projects
+## Education and certifications
 
-* **[HIPAA AWS Security Checker](https://github.com/markthedev12/hipaa-aws-checker)**  
-  Read-only Python & Boto3 CLI that audits AWS accounts for misconfigurations across S3, IAM, CloudTrail, KMS, VPC, and RDS, mapped directly to HIPAA Security Rule controls.
-* **[Secure AWS S3 Architecture](https://github.com/markthedev12/aws-secure-s3-lab)**  
-  Hardened S3 setup featuring least-privilege IAM, encryption at rest, strict HTTPS-only policies, access logging, and CloudTrail documentation.
-* **[AWS EC2 DevSecOps Lab](https://github.com/markthedev12/aws-ec2-devsecops-lab)**  
-  Terraform-provisioned EC2 web server paired with an automated Python security audit script checking for public exposure.
-* **[IAM Access Review Bot](https://github.com/markthedev12/iam-access-review-bot)**  
-  Compares access exports against role baselines to flag stale entitlements and generate risk-scored HTML compliance reports.
+B.S. in Information Technology & Cybersecurity, Strayer University — expected 2027.
 
----
+CompTIA Security+ · Google Cybersecurity Certificate
 
-## 🏆 Certifications
+Currently studying AWS architecture and infrastructure automation. Project READMEs distinguish implemented features, lab results, and planned work.
 
-* **CompTIA Security+**
-* **Google Cybersecurity Certificate**
-* *In Progress:* AWS Solutions Architect – Associate, HashiCorp Terraform Associate, AWS AI Practitioner
+## Connect
 
----
-
-## 📫 How to Reach Me
-
-* **Website:** [markschwinn.com](https://markschwinn.com)
-* **LinkedIn:** [in/mark-schwinn-994625362](https://www.linkedin.com/in/mark-schwinn-994625362/)
-* **X (Twitter):** [@markschwinn1](https://x.com/markschwinn1)
+[Website](https://markschwinn.com) · [LinkedIn](https://www.linkedin.com/in/mark-schwinn-994625362/)
